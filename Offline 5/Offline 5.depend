@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1642158603 source:c:\users\ahmed\desktop\offline 5\main.cpp
+	<iostream>
+	<fstream>
+	<cstdio>
+	<queue>
+	<ctime>
+	"heap.h"
+
+1642160551 c:\users\ahmed\desktop\offline 5\heap.h
+	<iostream>
+	<vector>
+
+1642158604 source:c:\users\ahmed\desktop\offline 5\temp_main.cpp
+	<iostream>
+	"heap.h"
+	<vector>
+
