@@ -1,0 +1,10 @@
+Minimum Dice Throws Required To Reach The Goal Is:  5
+1 -> 2 -> 8 -> 11 -> 14 -> 17 -> 20
+All Reachable
+
+
+Minimum Dice Throws Required To Reach The Goal Is:  -1
+No Solution
+Unreachable Vertices: 
+26 27 28 29 30 
+
