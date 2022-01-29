@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1643385770 source:c:\users\ahmed\desktop\offline 7\main.cpp
+	<iostream>
+	<fstream>
+	<chrono>
+	<algorithm>
+	<iomanip>
+	"Sort.h"
+
+1643433704 c:\users\ahmed\desktop\offline 7\sort.h
+	<iostream>
+
